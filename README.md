@@ -6,7 +6,7 @@
 
 アプリに関するご質問・不具合報告・ご要望は、以下よりお気軽にお寄せください。
 
-- **メール**: [tekarimeron11@gmail.com](mailto:tekarimeron11@gmail.com)
+- **メール**: [tekarimeron@gmail.com](mailto:tekarimeron@gmail.com)
 - **GitHub Issues**: [こちらから報告](https://github.com/tekarimeron11/ritual-support/issues)
 
 ## よくある質問
